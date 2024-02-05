@@ -21,5 +21,5 @@
 
 
 
-<img src="assets/images/http_practice_screen.png" alt="AIbudget Main Screen" width="300">
+<img src="networkingApp/assets/images/http_practice_screen.png" alt="AIbudget Main Screen" width="300">
 
